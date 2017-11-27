@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<center>
+	<img src="image.jpg">
+</center>
+<head>
+	<title>Yuechen's websie</title>
+	<link rel="stylesheet" type="text/css" href="style">
+</head>
+<body>
+	<center>
+		<h1 id="intro">Yuechen Liu</h1>
+		<ul>
+		<a href="resume.pdf">Click Here To See More Information</a>
+		</ul>
+		<nav>
+			<a href="https://mail.google.com/mail/"><img src="mail.jpg"></a>
+			<a href="https://www.facebook.com/yuechen.liu.790"><img src="facebook.jpg"></a>
+			<a href="https://www.instagram.com/?hl=en"><img src="instagram.jpg"></a>
+		</nav>
+	</center>
+</body>
+</html>
